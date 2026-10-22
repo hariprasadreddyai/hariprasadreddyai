@@ -1,4 +1,4 @@
-# PrasadReddy
+# HariPrasadReddy
 
 **AI/ML Engineer | Generative AI | Agentic AI | RAG | LLM Applications**
 
