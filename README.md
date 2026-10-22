@@ -30,16 +30,16 @@ This profile is where I publish working implementations of the patterns I use da
 
 ## Featured projects
 
-**[production-rag-assistant](https://github.com/prasadreddyaiml/production-rag-assistant)**
+**[production-rag-assistant](https://github.com/hariprasadreddyai/production-rag-assistant)**
 Production-grade RAG service: FastAPI + LangGraph, hybrid dense/sparse retrieval with cross-encoder reranking, inline citations, guardrails, and a golden-dataset eval harness with CI quality gates.
 
-**[mcp-cli-chatbot](https://github.com/prasadreddyaiml/mcp-cli-chatbot)**
+**[mcp-cli-chatbot](https://github.com/hariprasadreddyai/mcp-cli-chatbot)**
 Tool-using AI agent over MCP: securely calls external tools through defined interfaces from the command line.
 
-**[multi-agent-research-system](https://github.com/prasadreddyaiml/multi-agent-research-system)**
+**[multi-agent-research-system](https://github.com/hariprasadreddyai/multi-agent-research-system)**
 LangGraph supervisor orchestrating planner, researcher, and validator agents with tool calling, structured outputs, retry and failure handling, trace logging, and an evaluation harness.
 
-**[ai-observability-dashboard](https://github.com/prasadreddyaiml/ai-observability-dashboard)**
+**[ai-observability-dashboard](https://github.com/hariprasadreddyai/ai-observability-dashboard)**
 Observability service for LLM applications: ingests inference events, tracks latency, cost, and quality, and explores traces in a Streamlit dashboard.
 
 ## Currently building
