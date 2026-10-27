@@ -52,5 +52,5 @@ Agentic document processing system next, then cloud deployment guides.
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/haripeddireddy](https://www.linkedin.com/in/haripeddireddy)
+- LinkedIn: [linkedin.com/in/hariiprasadreddy](https://www.linkedin.com/in/hariiprasadreddy)
 - Email: haripeddireddy.careers@gmail.com
