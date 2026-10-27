@@ -42,6 +42,11 @@ LangGraph supervisor orchestrating planner, researcher, and validator agents wit
 **[ai-observability-dashboard](https://github.com/hariprasadreddyai/ai-observability-dashboard)**
 Observability service for LLM applications: ingests inference events, tracks latency, cost, and quality, and explores traces in a Streamlit dashboard.
 
+## Research
+
+**Early Detection and Containment of Cascading Failures in Multi-Agent LLM Systems Using Trace-Aware Verification**
+Under review at IEEE Transactions on Artificial Intelligence.
+
 ## Currently building
 
 Agentic document processing system next, then cloud deployment guides.
