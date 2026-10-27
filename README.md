@@ -44,8 +44,7 @@ Observability service for LLM applications: ingests inference events, tracks lat
 
 ## Research
 
-**Early Detection and Containment of Cascading Failures in Multi-Agent LLM Systems Using Trace-Aware Verification**
-Under review at IEEE Transactions on Artificial Intelligence.
+Currently, a sole-author paper on trace-aware verification for detecting and containing cascading failures in multi-agent LLM systems is under review at IEEE Transactions on Artificial Intelligence.
 
 ## Currently building
 
