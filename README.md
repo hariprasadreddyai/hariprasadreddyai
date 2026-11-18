@@ -42,6 +42,9 @@ LangGraph supervisor orchestrating planner, researcher, and validator agents wit
 **[ai-observability-dashboard](https://github.com/hariprasadreddyai/ai-observability-dashboard)**
 Observability service for LLM applications: ingests inference events, tracks latency, cost, and quality, and explores traces in a Streamlit dashboard.
 
+**[production-ml-platform](https://github.com/hariprasadreddyai/production-ml-platform)**
+End-to-end production ML platform (MLServe): distributed PyTorch training, ONNX optimization with INT8/FP16 quantization, FastAPI serving with A/B testing, RAG pipeline, golden-test evaluation with CI quality gates, and Prometheus/Grafana monitoring, deployed on Docker, Kubernetes, and Terraform.
+
 ## Research
 
 Currently, a sole-author paper on trace-aware verification for detecting and containing cascading failures in multi-agent LLM systems is under review at IEEE Transactions on Artificial Intelligence.
